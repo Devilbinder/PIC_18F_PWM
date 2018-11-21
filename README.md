@@ -1,5 +1,4 @@
 # PIC PWM
-#Code Coming Doon
 
 This demonstrates how to setup the PWM module and fading LEDs. Using the XC8 compiler with MPLAB X and a PIC18F4520.
 
