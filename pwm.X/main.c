@@ -1,5 +1,5 @@
 #include <xc.h>
-#include <p18f4520.h>
+#include <pic18f4520.h>
 #include <stdint.h>
 #include <stdbool.h>
 #include <stdio.h>
