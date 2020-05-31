@@ -9,6 +9,9 @@ This demonstrates how to setup the PWM module and fading LEDs. Using the XC8 com
 Shekels: 
 https://www.paypal.me/bindertronics9/5
 
+Patreon:
+https://www.patreon.com/BinderTronics
+
 Bitcoin: 
 19nohZzWXxVuZ9tZvw8Pvhajt5khG5mspW
 
